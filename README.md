@@ -45,6 +45,4 @@ Y Mucho más....
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian%20Terrones-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/catj-22?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdfFK4wVdROC9vFAiVCEGmA%3D%3D)
 
 ## CONCTACTO:
-[![Email](https://img.shields.io/badge/cristian.terrones@hotmail.com-Email_laboral_(respuesta_en_1_o_2_dias)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:cristian.terrones@hotmail.com)
-</br>
-[![Teams](https://img.shields.io/badge/Christian_Terrones-Teams_Personal-4f42b5?style=for-the-badge&logo=microsoftteams&logoColor=white&labelColor=101010)](https://teams.live.com/l/invite/FAAlSKba3dIVb9ZQAM)
+[![Email](https://img.shields.io/badge/Christian.terrones22@outlook.com-Email_laboral_(respuesta_en_1_o_2_dias)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:Christian.terrones22@outlook.com)
