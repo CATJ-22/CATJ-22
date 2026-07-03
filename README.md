@@ -32,7 +32,7 @@
 
 <div align="center">
 
-🧑‍💼 **[CV Personal](https://1drv.ms/b/s!AkoGchDlNbsKqQf3mFfhPbvtw1ZM?e=6YsPnT)** — Documento de perfil profesional
+🧑‍💼 **[CV Personal](https://1drv.ms/b/c/0abb35e51072064a/IQBKBnIQ5TW7IIAKhxQAAAAAAQjArbXjTrjPe3rtPJTdrUo?e=IxhNJW)** — Documento de perfil profesional
 
 </div>
 
